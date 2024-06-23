@@ -1,0 +1,9 @@
+header h1{   color: dimgrey;}
+
+header{ background-color: honeydew;}
+
+nav{display: flex;justify-content: space-between; align-items: center; background-color: honeydew;}
+
+nav a{text-decoration: none; color: black;border-left: 5px solid white;
+padding: 5px;}
+
